@@ -1,3 +1,10 @@
+# Portfolio
+
+![Screenshot (186)](https://user-images.githubusercontent.com/57623822/102049098-45667300-3e06-11eb-9e6c-73902c4bde06.png)
+
+This is a Portfolio about me and my work.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
